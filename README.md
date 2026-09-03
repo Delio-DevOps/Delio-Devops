@@ -9,5 +9,5 @@
 - ⚡ Curiosidade: Estou desenvolvendo meu próprio jogo de SNES do zero.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Delio-DevOps/Delio-DevOps/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> 
+  <img src="https://raw.githubusercontent.com/Delio-DevOps/Delio-DevOps/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
