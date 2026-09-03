@@ -10,4 +10,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Delio-DevOps/Delio-DevOps/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> 
