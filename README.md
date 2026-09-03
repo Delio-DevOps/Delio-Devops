@@ -5,6 +5,5 @@
 - 👯 Estou procurando colaborar em projetos open-source e ferramentas de DevOps/SRE.
 - 🤔 Estou procurando ajuda com boas práticas avançadas em Rust e *tuning* de performance em bancos de dados relacionais.
 - 💬 Me pergunte sobre Google Cloud, Linux (Ubuntu), Terraform, Rust e automação de processos.
-- 📫 Como me alcançar: delio.tonaco@tmdigital.ag
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Estou desenvolvendo meu próprio jogo de SNES do zero.
