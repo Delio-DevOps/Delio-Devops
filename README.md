@@ -8,4 +8,4 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Estou desenvolvendo meu próprio jogo de SNES do zero.
 
-![Snake animation](https://github.com/Delio-DevOps/Delio-DevOps/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Delio-DevOps/Delio-DevOps/blob/output/snake.svg)
