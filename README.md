@@ -1,4 +1,4 @@
-## // EXECUTE: INIT_SYSTEM // POLYRHYTHM_ACTIVE 🎸
+## // EXECUTE: INIT_SYSTEM // POLYRHYTHM_ACTIVE 🎸🎹
 
 - 🔭 Atualmente estou trabalhando em arquitetura de nuvem no Google Cloud Platform e microsserviços em Rust.
 - 🌱 Estou aprendendo novas abordagens de desenvolvimento assistido por IA e otimização de infraestrutura com Terraform.
