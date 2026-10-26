@@ -12,20 +12,22 @@
 ![Snake animation](https://github.com/Delio-DevOps/Delio-DevOps/blob/output/snake.svg)
 
 <div style="display: inline-block"><br>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="Vibe Coding" height="30" width="40" src="https://api.iconify.design/fluent-emoji:brain.svg"></a>
-  <a href="https://github.com/Delio-Devops"><img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="AWS" height="30" width="40" src="https://api.iconify.design/logos/aws.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="Vibe Coding" height="30" width="40" src="https://api.iconify.design/fluent-emoji/brain.svg"></a>
+  <a href="https://github.com/Delio-Devops"><img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"></a>
 </div>
